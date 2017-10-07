@@ -1,0 +1,23 @@
+=====================================Graph======================================
+
+1. Defination- A graph is a set of vertices and collection of edges where each edge connect two vertices with each other( a pair of vertices) .
+
+2. Anomalies
+
+	2.1 If Self Loop and parallel edges are present in graph : Multigraph
+
+	2.2 If no such things are present : Simple graph
+
+3. Grossary
+
+	3.1 The vertices that are connected through an edge are called adjacent vertices
+
+	3.2 An edge is incident to both vertices
+
+	3.3 The total number of incident edges on an vertex defines it's degree
+
+	3.4 A subgraph is a subset of edges and associated vertices that constitute that graph
+
+	3.5 If a graph doesn't contains a cycle that it is called a forest and if it is also connected than it is called a tree
+
+
