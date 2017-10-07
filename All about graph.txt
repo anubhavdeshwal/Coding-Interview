@@ -1,0 +1,13 @@
+=====================================Graph======================================
+
+1. Defination- A graph is a set of vertices and collection of edges where each edge connect two vertices with each other( a pair of vertices) .
+
+2. Anomalies
+
+	2.1 If Self Loop and parallel edges are present in gragh : Multigraph
+
+	2.2 If no such things are present : Simple graph
+
+
+
+
